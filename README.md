@@ -1,2 +1,2 @@
 # ticking_clock
-Clock built in vanilla Js
+Clock developed in basic JavaScript.
